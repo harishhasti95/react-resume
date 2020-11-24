@@ -22,8 +22,8 @@ export const Right = () => {
                 </ul>
                 <h2>Blogs:</h2>
                 <ul>
-                    <li>I wrote a blog which discusses 5 most important PyTorch functions in deep learning.<a href="https://medium.com/@harishhasti95/5-pytorch-functions-88dab92ee33" target="_blank"> [Link]</a></li>
-                    <li>Here is the <a href="https://medium.com/@harishhasti95/linear-regression-neural-networks-on-forest-fires-data-set-in-pytorch-98f632933f72" target="_blank"> [Link]</a> where I discussed how we can predict the burned area of forest fires, in the northeast region of Portugal, by using meteorological and other data.</li>
+                    <li>I wrote a blog which discusses 5 most important PyTorch functions in deep learning.<a href="https://medium.com/@harishhasti95/5-pytorch-functions-88dab92ee33" target="_blank" rel="noreferrer"> [Link]</a></li>
+                    <li>Here is the <a href="https://medium.com/@harishhasti95/linear-regression-neural-networks-on-forest-fires-data-set-in-pytorch-98f632933f72" target="_blank" rel="noreferrer"> [Link]</a> where I discussed how we can predict the burned area of forest fires, in the northeast region of Portugal, by using meteorological and other data.</li>
                 </ul>
             </div>
         </div>
